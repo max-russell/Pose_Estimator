@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Pose_Estimator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pose_Estimator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Pose_Estimator.jar">
+        <element id="module-output" name="Pose_Estimator" />
+      </element>
+    </root>
+  </artifact>
+</component>

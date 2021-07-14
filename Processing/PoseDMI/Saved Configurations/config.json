@@ -1,0 +1,71 @@
+{
+  "setCurrentOutput": "loopMIDI Port",
+  "mirrorSource": 1,
+  "confidenceThreshold": 0.5,
+  "showImage": 1,
+  "zones": [
+    {
+      "rootPitch": 36,
+      "noteCount": 8,
+      "velocity": "Move Speed",
+      "type": 0,
+      "enabled": 1,
+      "velocityTargetLower": 0,
+      "velocitySourceLower": 0,
+      "velocityTargetUpper": 40,
+      "name": "String Zone 1",
+      "x": 399,
+      "width": 104,
+      "chord": "Major",
+      "midiChannel": 0,
+      "y": 380,
+      "angle": -2.670353651046753,
+      "keypoint": 7,
+      "sustain": 1000,
+      "velocitySourceUpper": 40,
+      "key": 5,
+      "height": 242
+    },
+    {
+      "name": "Control Zone 1",
+      "x": 175,
+      "width": 91,
+      "chord": "Major 7th",
+      "y": 155,
+      "angle": 0,
+      "keypoint": 4,
+      "type": 1,
+      "enabled": 1,
+      "key": 7,
+      "height": 88
+    },
+    {
+      "name": "Control Zone 2",
+      "x": 114,
+      "width": 91,
+      "chord": "Major",
+      "y": 238,
+      "angle": 0,
+      "keypoint": 4,
+      "type": 1,
+      "enabled": 1,
+      "key": 0,
+      "height": 80
+    },
+    {
+      "name": "Control Zone 3",
+      "x": 174,
+      "width": 85,
+      "chord": "Major",
+      "y": 323,
+      "angle": 0,
+      "keypoint": 4,
+      "type": 1,
+      "enabled": 1,
+      "key": 5,
+      "height": 88
+    }
+  ],
+  "version": 2,
+  "showHeatMap": 1
+}
